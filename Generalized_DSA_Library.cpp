@@ -5,7 +5,7 @@ using namespace std;
 //
 //  class :         QueueX
 //  Description :   Generic implementation of Queue    
-//  Author  :      Mangesh Ashok Bedre
+//  Author  :       Mangesh Ashok Bedre
 //
 ////////////////////////////////////////////////////////////////////////////////////
 
